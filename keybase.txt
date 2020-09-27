@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pierrehopkins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pierrehopkins.github.io
+  * I am pierrehopkins (https://keybase.io/pierrehopkins) on keybase.
+  * I have a public key ASDOWthqnG-ii2lAiyMNvD6uGrSk-_2ImJcD6MpofE6lfQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce5ad86a9c6fa28b69408b230dbc3eae1ab4a4fbfd88989703e8ca687c4ea57d0a",
+      "host": "keybase.io",
+      "kid": "0120ce5ad86a9c6fa28b69408b230dbc3eae1ab4a4fbfd88989703e8ca687c4ea57d0a",
+      "uid": "4e21efd66b083e43511087cd69230419",
+      "username": "pierrehopkins"
+    },
+    "merkle_root": {
+      "ctime": 1601218860,
+      "hash": "f17ffa605672d0b1f9b626998929307f0944ee58f77f34433745d83aeca62dbb8a08854e6c35667764870c02d2a29901f7f63a3228adf494de6d1b8c3eb4b16f",
+      "hash_meta": "01a205402cfba315ee9e1917360bd7468c388159a40347eaf8390c88ca6b1600",
+      "seqno": 17681459
+    },
+    "service": {
+      "entropy": "bhTDnyZ8ZV4tT8YZ/FZPxk6b",
+      "hostname": "pierrehopkins.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1601218925,
+  "expire_in": 504576000,
+  "prev": "a62ad43f75546037c682f9e0bd5d8247289e7f736b3ceffaa1b56632a8089392",
+  "seqno": 48,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzlrYapxvootpQIsjDbw+rhq0pPv9iJiXA+jKaHxOpX0Kp3BheWxvYWTESpcCMMQgpirUP3VUYDfGgvngvV2CRyief3NrPO/6obVmMqgIk5LEIOaD5Q26q4hOXkWNKgy4d/K8tbjjXCWnE7QazPbB7i0dAgHCo3NpZ8RASsSJuhWQGruHXmUy0E5YgdioiSm+15JPI4rX/YWsPkbESbw20+NhCiqmY3++QCM6YAxmd6/RWujVsPwglWt0AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJrYtaCteIm9Fk5mUPqqd/lFcY26sYSkbo0ggEIgg0Dxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pierrehopkins
+
+==================================================================
